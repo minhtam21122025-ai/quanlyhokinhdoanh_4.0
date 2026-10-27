@@ -1,0 +1,24 @@
+<svg viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hgBg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="55%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="hgGold" x1="120" y1="90" x2="392" y2="410" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="50%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#hgBg)"/>
+  <rect x="24" y="24" width="464" height="464" rx="96" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="4"/>
+  <!-- Royal Crown / Book Crest -->
+  <path d="M196 132L226 158L256 118L286 158L316 132L306 176H206L196 132Z" fill="url(#hgGold)"/>
+  <!-- Sharp Monogram H -->
+  <path d="M126 198H166V276H226V198H266V384H226V312H166V384H126V198Z" fill="#FFFFFF"/>
+  <!-- Sharp Monogram G -->
+  <path d="M364 196C394 196 418 212 428 238L390 254C384 239 374 232 360 232C334 232 316 254 316 290C316 326 334 348 362 348C382 348 394 338 396 318H358V284H434V384H402L398 364C388 378 372 386 352 386C306 386 274 348 274 290C274 232 308 196 364 196Z" fill="url(#hgGold)"/>
+  <!-- Academic Open Book Base Arc -->
+  <path d="M132 414C178 400 222 406 256 422C290 406 334 400 380 414" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="12" stroke-linecap="round"/>
+</svg>
